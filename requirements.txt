@@ -1,0 +1,17 @@
+torch
+torchvision
+tensorflow==2.12.0
+opencv-python
+numpy
+pandas
+Pillow
+flask
+gunicorn
+matplotlib
+scikit-learn
+mlflow
+albumentations
+tqdm
+reportlab
+onnx
+onnxruntime
